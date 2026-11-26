@@ -1,1 +1,20 @@
-zatím prazdný repozitář bude zanedlouho plný informací
+Tady najdete klíčové pojmy od kterých uděláme například prezentaci a zbytek projektu.
+
+
+Vishing - ČNB:
+zneužívání identity,
+	   tel. čísla
+
+vytváření nátlaku na lidi
+Cíl - získání citlivých informací, připravit osobu o finance
+Vishing je telefonická obdoba phishingu, tedy podvodu, kdy se podvodník často vydává za zaměstnance banky, finančního úřadu či policistu a snaží se vylákat od oběti citlivé údaje.
+
+
+
+AI:
+
+Podvodníci se vydávají za zaměstnance České národní banky (ČNB) z podvržených telefonních čísel, aby z lidí pod záminkou falešné bezpečnostní hrozby vylákali přístupové údaje k účtům, data z platebních karet nebo je přiměli vložit hotovost do bitcoinmatu.
+• Scénář podvodu: Útočníci tvrdí, že peníze na účtu jsou v ohrožení nebo že účet bude kvůli opatření ČNB brzy zmrazen.
+• Cíl útočníků: Získat přihlašovací údaje do internetového bankovnictví, kompletní údaje z platební karty (číslo, platnost, CVV kód) nebo přimět oběť vybrat hotovost a vložit ji do BTC bankomatu.
+• Stanovisko ČNB: Česká národní banka veřejnost tímto způsobem nikdy nekontaktuje a nikdy po nikom nepožaduje citlivé bankovní údaje ani přesuny peněz.
+• Doporučení: Na tyto hovory vůbec nereagovat, nikomu po telefonu nesdělovat osobní ani bankovní údaje a neposílat žádné finanční prostředky.
