@@ -33,3 +33,4 @@ Projekt slouží pouze ke vzdělávacím účelům. Při testování nebudeme be
 ## Stav projektu
 
 Projekt je momentálně ve vývoji.
+<sub>Text byl upraven pomocí AI.</sub>
